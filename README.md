@@ -7,7 +7,7 @@
 -     https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg
 - 글씨체는 D2Coding을 사용하였습니다.
 -     https://github.com/naver/d2codingfont
-- API는 다음과 같습니다.
+- 기능은 다음과 같습니다.
 
 <br>
 
@@ -47,3 +47,5 @@
 <img width="400" height="450" alt="Image" src="https://github.com/user-attachments/assets/adc4b631-08f2-41b4-9c4a-d5c58258b522" />
 
 - 마지막으로 Task Edit에서는 작업 목록에 대한 디테일한 수정이 가능합니다.
+
+- 기본적으로 별도의 리눅스 서버에 DB가 설치되어있다는 전제 하에 작성된 프로그램입니다.
