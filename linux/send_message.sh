@@ -20,7 +20,6 @@ ACCESS_TOKEN=$(jq -r '.access_token' "$TOKEN_FILE")
 # 이 스크립트에 전달된 첫 번째 인자($1)를 MESSAGE 변수에 저장
 MESSAGE="$1"
 # jq를 사용하여 카카오톡 메시지 템플릿 JSON 객체를 생성
-# 참고: link의 web_url 값이 불완전함.
 TEMPLATE_OBJECT=$(jq -n --arg msg "$MESSAGE" '{object_type:"text", text:$msg, link:{web_url:">
 # curl을 사용하여 카카오 서버에 메시지 전송 API를 호출
 # -H: HTTP 헤더 추가. Bearer 인증을 위해 액세스 토큰을 전달.
@@ -32,3 +31,4 @@ RESPONSE=$(curl -s -X POST "$MESSAGE_URL" \
 # 메시지 전송 완료 후, 카카오 서버로부터 받은 응답을 출력
 
 echo "메시지 전송 완료. 응답: $RESPONSE"
+
