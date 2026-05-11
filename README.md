@@ -1,13 +1,8 @@
-## To Do App
+# To Do App
 
 <br>
 
-### 참고사항
-- 사용한 아이콘은 Anime-Girls-Holding-Programming-Books 프로젝트의 다음 경로에 있는 사진을 배경만 제거하여 사용하였습니다.
--     https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg
-- 글씨체는 D2Coding을 사용하였습니다.
--     https://github.com/naver/d2codingfont
-- 기능은 다음과 같습니다.
+## Features
 
 <br>
 
@@ -49,3 +44,14 @@
 - 마지막으로 Task Edit에서는 작업 목록에 대한 디테일한 수정이 가능합니다.
 
 - 기본적으로 별도의 리눅스 서버에 DB가 설치되어있다는 전제 하에 작성된 프로그램입니다.
+
+### 참고사항
+- 사용한 아이콘은 Anime-Girls-Holding-Programming-Books 프로젝트의 다음 경로에 있는 사진을 배경만 제거하여 사용하였습니다.
+-     https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg
+- 글씨체는 D2Coding을 사용하였습니다.
+-     https://github.com/naver/d2codingfont
+- 자세한 설명은 다음 링크에서 확인 가능합니다.
+-     https://waterglass0105.tistory.com/145
+-     https://waterglass0105.tistory.com/146
+-     https://waterglass0105.tistory.com/147
+-     https://waterglass0105.tistory.com/150
