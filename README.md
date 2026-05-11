@@ -50,7 +50,7 @@
 -     https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg
 - 글씨체는 D2Coding을 사용하였습니다.
 -     https://github.com/naver/d2codingfont
-- 자세한 설명은 다음 링크에서 확인 가능합니다. \[1] \[2] \[3] \[4]
+- 자세한 설명은 다음 링크에서 확인 가능합니다. \[링크1] \[1] \[링크2] \[2] \[링크3] \[3] \[링크4] \[4]
 \[1]: https://waterglass0105.tistory.com/145
 \[2]: https://waterglass0105.tistory.com/146
 \[3]: https://waterglass0105.tistory.com/147
