@@ -52,6 +52,6 @@
 -     https://github.com/naver/d2codingfont
 - 자세한 설명은 다음 링크에서 확인 가능합니다.
 [계획](https://waterglass0105.tistory.com/145)
-[계획](https://waterglass0105.tistory.com/146)
-[계획](https://waterglass0105.tistory.com/147)
-[계획](https://waterglass0105.tistory.com/150)
+[DB연결](https://waterglass0105.tistory.com/146)
+[DB 연동 및 UI 제작](https://waterglass0105.tistory.com/147)
+[구조 및 각 코드 설명](https://waterglass0105.tistory.com/150)
